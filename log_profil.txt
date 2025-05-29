@@ -1,6 +1,6 @@
-Mutiara
-Tidak Diketahuid "d:\Semester 4\PROGCBIOM_GI
-d "d:\Semester 4\PROGCBIOM_GI
-T\FINPRO-8\" ; if ($?) { gcc profile.c -o profile
- } ; if ($
-3629056
+mutiara
+Retainer
+4 bulan
+Dr. Andi
+10-04-2025
+30
