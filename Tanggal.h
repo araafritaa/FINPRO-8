@@ -12,4 +12,4 @@ void formatTanggal(char *buffer, struct tm date);
 void simpanTanggalSaatIni(struct tm date);
 int bacaTanggalSaatIni(struct tm *date);
 
-#endif 
+#endif // TANGGAL_H
