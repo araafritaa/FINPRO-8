@@ -13,6 +13,18 @@ Program ini untuk membantu pengguna (terutama pengguna behel atau retainer) dala
 
 ---
 
+## Modul
+- Basics of C
+- If & While
+- Do While, For, & Switch
+- Function
+- Array (1D)
+- Pointers
+- Argument Calling
+- Struct
+
+---
+
 ## Anggota Kelompok 8 
 - Innezahra Aurellia Titani (2306168965)
 - Mutiara Putri Afrita (2306169021)
